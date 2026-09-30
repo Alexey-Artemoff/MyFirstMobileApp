@@ -33,7 +33,6 @@ class MyHomePage extends StatelessWidget {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: <Widget>[
-          // Здесь будут ваши виджеты
           Column(
             children: [
               Text('ФИО: Артёмов Алексей Андреевич', 
