@@ -4,6 +4,6 @@ class MainScreenInitialState extends MainScreenState {}
 
 class MainScreenResultState extends MainScreenState {
   final int result;
-  
-  MainScreenResultState({required this.result});
+
+  MainScreenResultState({required this.result,});
 }
